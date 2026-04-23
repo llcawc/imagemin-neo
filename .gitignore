@@ -1,0 +1,19 @@
+# Node & project folders
+/.git/
+/.osp/
+/node_modules/
+
+# Config files
+/**/.env
+/**/.env.*.php
+/**/.env.php
+
+# archive package
+/**/*.zip
+/**/*.7z
+
+# iMac & Windows
+/**/*.DS_Store
+/**/Thumbs.db
+/**/[Dd]esktop.ini
+/**/*.lnk

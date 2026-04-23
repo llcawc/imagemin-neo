@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "types": ["node"],
+    "module": "node20",
+    "moduleResolution": "nodenext",
+    "declaration": true,
+    "newLine": "lf",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedDeclarations": true
+  },
+  "include": ["src/**/*", "test/**/*", "test-run.js"],
+  "exclude": []
+}
