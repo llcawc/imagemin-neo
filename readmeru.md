@@ -1,7 +1,10 @@
 # imagemin-neo
 
-![npm license](https://img.shields.io/npm/l/imagemin-neo.svg)
-[![Node.js Support](https://img.shields.io/node/v/imagemin-neo.svg?style=flat&logo=node.js)](package.json)
+[![npm version](https://img.shields.io/npm/v/imagemin-neo?style=flat&logo=npm)](https://www.npmjs.com/package/imagemin-neo)
+[![license](https://img.shields.io/npm/l/imagemin-neo?style=flat-square)](https://github.com/llcawc/imagemin-neo/blob/main/license)
+[![node version](https://img.shields.io/node/v/imagemin-neo?style=flat&logo=node.js)](https://nodejs.org)
+[![Downloads](https://img.shields.io/npm/dm/imagemin-neo.svg?style=flat&logo=npm)](https://www.npmjs.com/package/imagemin-neo)
+[![tests](https://img.shields.io/badge/tests-20%20passed-brightgreen?style=flat-square)](https://github.com/llcawc/imagemin-neo/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-✓-007ACC?style=flat-square)](https://www.typescriptlang.org/)
 
 > **Уведомление о форке**: Это форк оригинального пакета [`imagemin`](https://github.com/imagemin/imagemin). Данный форк включает несколько улучшений и модернизаций.
